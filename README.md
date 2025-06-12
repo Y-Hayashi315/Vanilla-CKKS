@@ -19,4 +19,5 @@
 
 ## 参考文献
 CKKS explained: Part 1, Vanilla Encoding and Decoding(https://openmined.org/blog/ckks-explained-part-1-simple-encoding-and-decoding/)
+
 準同型暗号CKKSその1 多項式環(https://zenn.dev/herumi/articles/ckks-ring-iso)
